@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - CinemachineTarget
+  - frascomano
   layers:
   - Default
   - TransparentFX
